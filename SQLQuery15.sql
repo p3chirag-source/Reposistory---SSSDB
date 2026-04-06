@@ -266,5 +266,5 @@ GO
 SELECT *
 FROM ERROR_LOG.dbo.Migration_Error_Log
 
-select 
-from EPR_DataMigration
+select
+from EPR_DataMigration --------- Done by Chirag
